@@ -13,9 +13,8 @@
     "postchangelog": "git commit -am \"chore(): update changelog\"",
     "shipit": "npm run build && npm publish"
   },
-  "author": "Ibby Hadeed <ibby@zyra.ca>",
   "license": "MIT",
-  "repository": "https://github.com/zyra/ionic2-super-tabs",
+  "repository": "https://github.com/alto-de/ionic2-super-tabs",
   "devDependencies": {
     "@angular/common": "4.4.3",
     "@angular/compiler": "4.4.3",
